@@ -1,7 +1,13 @@
-*Avro
+# A Readme.md Test
 
-*Hornet
+## My secondary header
 
-*Harrier
+* Avro
+
+* Hornet
+
+* Harrier
+
+### The final line
 
 Git is easy. Git is fun. Thanks Linus!
